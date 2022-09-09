@@ -22,7 +22,7 @@
 <br>
 <h2>🌐 Socials</h2>
 <br/>
-<a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
+<a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/](https://www.linkedin.com/in/zohirahmed400">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="mailto:ztalha6@gmail.com">
@@ -39,12 +39,12 @@
 </div>
 <h3 align="center">Github@<a href="https://github.com/ZohirAhmed400">GetZohirAhmed</a></h3> 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=GetZohirAhmed400&show_icons=true&theme=dark" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=ZohirAhmed400&show_icons=true&theme=dark" />
 </p>
 
 <h3 align="center">Github@<a href="https://github.com/ZohirAhmed400">GetZohirAhmed</a></h3> 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GetIZohirAhmed400&theme=dark" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZohirAhmed400&theme=dark" />
 </p>
 
 <div align="center">
