@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Zohir Ahmed Arshad!</h1>
+<h3 align="center">I'm a Mobile app + Web App, Developer!</h3>	 
+<br>
+<h2>💫 About Me : </h2>
+<br/>
 
-<!--
-**ZohirAhmed400/ZohirAhmed400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <ul>
+    <li>👯 I'm Looking to Collaborate on  <b>Ionic , Angular And Open Source Projects</b></li>
+    <li>💻 I'm self taught programmer and believe in team management</li>
+    <li>🌱 I’m currently learning <b>Flutter, Angular, Ionic<b></li>
+    <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
+    <!-- <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li> -->
+    <li>😄 Pronouns: **He/Him** 💁‍</li>
+    <li>⚡ Fun fact: Sometimes I got disapear for traveling! :owl:</li>
+</ul>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<h2>🌐 Socials</h2>
+<br/>
+<a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="mailto:ztalha6@gmail.com">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+
+<div align="center">
+ <h3>Some Cool Github Stats:</h3> 
+</div>
+<h3 align="center">Github@<a href="https://github.com/ZohirAhmed400">GetZohirAhmed</a></h3> 
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=GetZohirAhmed400&show_icons=true&theme=dark" />
+</p>
+
+<h3 align="center">Github@<a href="https://github.com/ZohirAhmed400">GetZohirAhmed</a></h3> 
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GetIZohirAhmed400&theme=dark" />
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
